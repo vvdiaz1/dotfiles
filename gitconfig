@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vvdiaz1@uc.cl
+	name = Valentina Diaz
